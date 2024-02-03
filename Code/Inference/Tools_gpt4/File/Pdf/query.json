@@ -1,0 +1,11 @@
+[
+    "Could you assist me in compressing '/workspace/Tool_learning_test/Tools/File/Pdf/test_file/protect.pdf' to '/workspace/Tool_learning_test/Tools/File/Pdf/test_file/compress_protect.pdf', please?",
+    "Is it possible for you to convert '/workspace/Tool_learning_test/Tools/File/Pdf/test_file/hello.png' into '/workspace/Tool_learning_test/Tools/File/Pdf/test_file/hello.pdf'?",
+    "Please help me merge '/workspace/Tool_learning_test/Tools/File/Pdf/test_file/protect.pdf' and '/workspace/Tool_learning_test/Tools/File/Pdf/test_file/world.pdf' to '/workspace/Tool_learning_test/Tools/File/Pdf/test_file/merge.pdf'.",
+    "Would you be able to convert '/workspace/Tool_learning_test/Tools/File/Pdf/test_file/hello.doc' to '/workspace/Tool_learning_test/Tools/File/Pdf/test_file/hello_doc.pdf'?",
+    "I'm seeking assistance in adding page numbers to '/workspace/Tool_learning_test/Tools/File/Pdf/test_file/world.pdf' as '/workspace/Tool_learning_test/Tools/File/Pdf/test_file/add_page_world.pdf', could you help please?",
+    "I'm wondering if you could convert '/workspace/Tool_learning_test/Tools/File/Pdf/test_file/world.pdf' into '/workspace/Tool_learning_test/Tools/File/Pdf/test_file/world.png' for me?",
+    "Could you kindly assist me in adding a password 'test_password' to '/workspace/Tool_learning_test/Tools/File/Pdf/test_file/hello_doc.pdf' as '/workspace/Tool_learning_test/Tools/File/Pdf/test_file/hello_doc_pass.pdf'?",
+    "Could you please assist me in removing the password from '/workspace/Tool_learning_test/Tools/File/Pdf/test_file/hello_doc_without_pass.pdf' as '/workspace/Tool_learning_test/Tools/File/Pdf/test_file/hello_doc_without_pass.pdf'?",
+    "I would greatly appreciate it if you could help me in watermarking '/workspace/Tool_learning_test/Tools/File/Pdf/test_file/hello.pdf' with the text 'hello, world' as '/workspace/Tool_learning_test/Tools/File/Pdf/test_file/hello_water.pdf'."
+]

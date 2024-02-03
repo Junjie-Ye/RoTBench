@@ -1,0 +1,12 @@
+[
+    "Retrieve scientific papers related to quantum computing using the arXiv API. Display the first 5 results.",
+    "Search for articles on climate change impact assessments using the arXiv API. Show 0~9 results.",
+    "Find research papers discussing neural networks and machine learning techniques. Return up to 7 results.",
+    "Explore arXiv articles related to astrophysics with an emphasis on dark matter. Provide the first 8 results.",
+    "Retrieve e-prints from arXiv discussing recent advancements in nanotechnology. Limit the output to 6 entries.",
+    "Search for scholarly articles regarding genetic engineering and biotechnology on arXiv. Display the initial 4 results.",
+    "Find scientific publications about renewable energy sources using the arXiv API. Return 0~9 results.",
+    "Explore arXiv articles focused on mathematical proofs in the field of number theory. Limit the results to 7.",
+    "Retrieve research papers on artificial intelligence ethics using the arXiv API. Provide the first 10 results.",
+    "Search for e-prints discussing quantum entanglement and its applications on arXiv. Display up to 9 results."
+]

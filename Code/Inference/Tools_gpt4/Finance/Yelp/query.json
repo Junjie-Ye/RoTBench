@@ -1,0 +1,12 @@
+[
+    "Search 20 businesses that serve macarons in New York City.",
+    "What's the business associated with phone number +14159083801 ?",
+    "Detail to me the business which has business id '4kMBvIEWPxWkWKFN__8SxQ' on Yelp.",
+    "List businesses that supports food delivery in the US.",
+    "I want to see newest 30 reviews of a business on yelp that has business_id 'MpF9j5-fBH0H6L9AzzyArA' .",
+    "Search events that happens in San Fransico and list answers in descendent order.",
+    "Detail the event with event_id 'san-francisco-yelp-10-year-anniversary-celebration' on Yelp.",
+    "List all categories that the website yelp has.",
+    "Give me detailed data of the category on the yelp website. Notice that this category has an alias 'podiatrists'.",
+    "Autocomplete 'hamberg' using the autocomplete function of yelp website."
+]

@@ -1,0 +1,8 @@
+[
+    "Please give me most recent intraday information of NASDAQ stock price of 'BILI' ,with OHLCV bars returned. Set the interval to 30min.",
+    "Do you have the information of stock 'SOHU' over the past few days.",
+    "Stock information of 'TCTZF' please. Weekly.",
+    "I want historical infomation of stock 'LI, setting the interval to a month.",
+    "Search symbols and market information with the keyword 'bili'.",
+    "Tell me the status of global markets."
+]

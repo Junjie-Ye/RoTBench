@@ -1,0 +1,9 @@
+[
+    "I want to know the result of the following python code:for i in range(10):\n    print(i).",
+    "Can you tell me what is the result of 33+57*78/106 ?",
+    "I want to preform  an sql query :\"SELECT * from lib.books;\".The book table has two attributes:id and book_name.What will be the result look like?The user is root and password is relzzuG123].",
+    "Can you demonstrate the usage of bash shell with the input \"echo hello world \"?",
+    "Help me exectue the following python code:print(1)",
+    "What will be the result of the sql query:SELECT AVG(salary) from employee_income?The user is root and password is relzzuG123].",
+    "Would you test out the shell command for me:ls?"
+]

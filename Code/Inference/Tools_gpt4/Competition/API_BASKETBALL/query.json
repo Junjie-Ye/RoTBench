@@ -1,0 +1,12 @@
+[
+    "Give me the list of available timezones for the games endpoint.",
+    "Retrieve all available bookmakers",
+    "Show me the list of available bets and their IDs for filtering odds.",
+    "Get pre-match odds for a game in league 5 of the 2020 season.",
+    "Provide the standings table for league 10 in the 2022 season.",
+    "Give me the available stages or groups for league 7 to be used in the standings endpoint.",
+    "Retrieve all available seasons for filtering in various endpoints.",
+    "Show me the list of countries",
+    "Get a list of leagues and cups available, including their names and types.",
+    "Retrieve head-to-head information between teams with IDs 142 and 144 in the 2019 season."
+]

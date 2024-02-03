@@ -1,0 +1,11 @@
+[
+   "What were the most popular news articles related to technology on August 1st, 2023?",
+   "Could you provide the top 10 recent news headlines in the health category?",
+   "Show me news articles from \"bbc.com\" and \"cnn.com\" but exclude articles from \"nytimes.com\" published on August 10, 2023.",
+   "Can you fetch news articles mentioning climate change and environment from August 5th, 2023 to August 10th, 2023, sorted by relevance?",
+   "What are the top news sources for business-related articles in the United States?",
+   "Retrieve headlines from Italian news sources in the sports category, sorted by date.",
+   "Provide a list of recent news articles where the term pandemic appears in the description, sorted by their publication date.",
+   "Get a list of news sources that provide articles in French for the technology category.",
+   "Can you fetch the full details of the news article with the title <Apple's New Product Launch Event>?"
+]

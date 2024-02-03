@@ -1,0 +1,12 @@
+[
+    "Get all coin categories available on CoinMarketCap.",
+    "On CoinMarketCap website, return me information about a coin category whose category id is '1'.",
+    "Give me a mapping of all cryptocurrencies to unique CoinMarketCap ids",
+    "Now I want all static metadata available for one or more cryptocurrencies.",
+    "List me all active and inactive cryptocurrencies with latest market data.",
+    "Latest market quote for Bitcoin.",
+    "Fetch me a mapping of all supported fiat currencies to unique CoinMarketCap ids.",
+    "Return me the exchange asset information with CoinMarketCap exchange ID=270",
+    "All static metadata for binance and gdax, please.",
+    "Give me first 50 of all active cryptocurrency exchanges by CoinMarketCap ID."
+]

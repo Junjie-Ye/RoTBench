@@ -1,0 +1,12 @@
+[
+    "Could you fetch the details of the article with the ID 123?",
+    "Retrieve news articles related to the event with ID 456 and associated with the launch of \"Falcon 9\" rocket.",
+    "Provide the latest 5 articles, ordered by their publication date.",
+    "Show me articles with titles containing the phrase \"Mars rover\" and were published after January 1, 2023.",
+    "Get articles that have the phrase \"climate change\" in their summary, regardless of the publication date.",
+    "Can you fetch all blogs related to the launch of \"Voyager 1\" spacecraft?",
+    "Retrieve articles from news sites \"SpaceNews\" and \"NASA News\" ordered by their updated timestamp in descending order.",
+    "Provide articles published between June 1, 2022, and December 31, 2022, with the keyword \"satellite\" in their title.",
+    "Get reports that are associated with an event and launch, where the event has the ID 789 and the launch is \"Atlas V\".",
+    "Could you provide general information available through the Spaceflight News API?"
+]

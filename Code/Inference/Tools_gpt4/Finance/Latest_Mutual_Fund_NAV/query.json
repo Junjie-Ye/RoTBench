@@ -1,0 +1,8 @@
+[
+    "Get me all latest Net Asset Value.",
+    "Help me with NAVs on date 2023-01-01. NAV represents Net Asset Value.",
+    "List all scheme types of which you can check NAVs.",
+    "Give me a list of all scheme names, mutual funds of which you can access the NAV.",
+    "Fetch scheme categories by the scheme type 'Open ended schemes'.",
+    "Find all mutual fund families you know. In terms of NAV information."
+]

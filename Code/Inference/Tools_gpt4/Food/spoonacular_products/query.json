@@ -1,0 +1,9 @@
+[
+    "I would like to drink Greek yogurt, please provide me with more information",
+    "Tell me the Pizza product information, the maximum calorie can not exceed 500",
+    "I need the specific information of UPC 41631000564 product",
+    "I want to know all the product information of id 22347",
+    "I would like to know the information of products that are comparable to the product with UPC 033698816271",
+    "Classify the products with postbody={\"title\": \"chicken\"}"
+    
+]
