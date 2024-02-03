@@ -1,8 +1,8 @@
 export CUDA_VISIBLE_DEVICES=0
 export PYTHONPATH=./
 
-python Code/Inference/inference_new/inference_pipeline.py \
-    --backbone_model toolllama \
+python Code/Inference/inference_pipeline.py \
+    --backbone_model tool \
     --model_path \
     --lora \
     --lora_path \

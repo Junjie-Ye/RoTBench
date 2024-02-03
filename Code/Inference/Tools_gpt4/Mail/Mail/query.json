@@ -1,8 +1,0 @@
-[
-    "Send an email to 1479106701@qq.com with 'test_email' in the subject line and 'hello!' in the body.",
-    "Send an email to 1479106701@qq.com and liusc2020@gmail.com with 'test_email_group' in the subject line and 'hey guys.' in the body.",
-    "Check latest email.",
-    "View an email with the subject line 'Hello World'",
-    "View the mail whose id is 2",
-    "Read all emails from 'sc liu'"
-]
