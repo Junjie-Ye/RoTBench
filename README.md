@@ -23,7 +23,8 @@ In light of these findings, we propose RoTTuning, a strategy that enriches the d
 </div>
 
 ## What's New
-- **[2024.01.17]** The data is released. The code for evaluation is on its way.
+- **[2024.02.03]** The code is released. The instruction for evaluation is on its way.
+- **[2024.01.17]** The data is released.
 - **[2024.01.16]** Paper available on [Arxiv](https://arxiv.org/abs/2401.08326).
 
 
