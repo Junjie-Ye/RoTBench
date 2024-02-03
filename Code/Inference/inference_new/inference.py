@@ -1,13 +1,13 @@
 import sys  # NOQA: E402
-sys.path.append('RoTBench/Code/Inference/Tools_gpt4')  # NOQA: E402
-sys.path.append('RoTBench/Code/Inference')  # NOQA: E402
+sys.path.append('/workspace/RoTBench/Code/Inference/Tools_gpt4')  # NOQA: E402
+sys.path.append('/workspace/RoTBench/Code')  # NOQA: E402
 
-from utils import (
+from Inference.utils import (
     standardize,
     change_name,
     replace_llama_with_condense
 )
-from inference_new.models import ToolLLaMALoRA, ToolLLaMA, ChatGPT
+from Inference.inference_new.models import ToolLLaMALoRA, ToolLLaMA, ChatGPT
 from termcolor import colored
 import re
 import os

@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 # coding=utf-8
 import sys  # NOQA: E402
-sys.path.append('RoTBench/Code/Inference')  # NOQA: E402
-from inference_new.utils import SimpleChatIO, generate_stream, react_parser
-from model.model_adapter import get_conversation_template
+sys.path.append('/workspace/RoTBench/Code')  # NOQA: E402
+from Inference.inference_new.utils import SimpleChatIO, generate_stream, react_parser
+from Inference.model.model_adapter import get_conversation_template
 from transformers import (
     AutoTokenizer,
     AutoModelForCausalLM,

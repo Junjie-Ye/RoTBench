@@ -20,9 +20,9 @@ from transformers import (
 )
 from peft import PeftModel
 
-from tool_conversation import Conversation, get_conv_template
-from model.compression import load_compress_model
-from utils import get_gpu_memory
+from Inference.tool_conversation import Conversation, get_conv_template
+from Inference.model.compression import load_compress_model
+from Inference.utils import get_gpu_memory
 
 
 class BaseAdapter:

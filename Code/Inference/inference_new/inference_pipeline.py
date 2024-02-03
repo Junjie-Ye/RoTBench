@@ -1,7 +1,7 @@
 import sys
-sys.path.append('RoTBench/Code/Inference')
+sys.path.append('/workspace/RoTBench/Code')
 import argparse
-from inference_new.inference import pipeline_runner
+from Inference.inference_new.inference import pipeline_runner
 import os
 
 

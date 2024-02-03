@@ -1,6 +1,6 @@
 import json
 import random
-from Code.Data_Process import transformer
+import transformer
 import argparse
 import os
 
@@ -104,9 +104,9 @@ def data_transform_process(origin_file, mode, output_file):
         data = json.load(f)
     for d in data:
         if d["id"][5] == "1":
-            assistant = d["conversations"][2]["value"]
+            assistant = d["conversations"][2]["value"][0]
         elif d["id"][5] == "3":
-            assistant = d["conversations"][6]["value"]
+            assistant = d["conversations"][6]["value"][0]
         action = assistant[assistant.find("Action:") + 8: assistant.find("Action Input:") - 1]
         action_input = json.loads(assistant[assistant.find("Action Input:") + 14:])
         prompt = d["conversations"][0]["value"][:d["conversations"][0]["value"].find("[")]

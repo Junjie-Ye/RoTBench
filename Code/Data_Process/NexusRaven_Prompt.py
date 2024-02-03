@@ -53,7 +53,7 @@ def version2(origin_file, raven_file):
             if prompt_args:
                 prompt_template += "\nArgs:\n"
                 for arg, detail in function["parameters"]["properties"].items():
-                    if arg not in function["required"]:
+                    if arg not in function["parameters"]["required"]:
                         prompt_template += "{arg} (Optional): {arg_des}\n".format(arg=arg, arg_des=detail["description"])
                     else:
                         prompt_template += "{arg}: {arg_des}\n".format(arg=arg, arg_des=detail["description"])

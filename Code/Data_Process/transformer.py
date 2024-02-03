@@ -155,9 +155,9 @@ def param_slight_transform(config: list, function: str, input: dict):
             else:
                 new_properties[param_key] = param_value
         tool["parameters"]["properties"] = new_properties
-        for index, parameter in enumerate(tool["required"]):
+        for index, parameter in enumerate(tool["parameters"]["required"]):
             if parameter in trans_dict[tool["name"]].keys():
-                tool["required"][index] = trans_dict[tool["name"]][parameter]
+                tool["parameters"]["required"][index] = trans_dict[tool["name"]][parameter]
     return config, match_dict, trans_dict
 
 
@@ -192,9 +192,9 @@ def param_medium_transform(config: list, function: str, input: dict):
             else:
                 new_properties[param_key] = param_value
         tool["parameters"]["properties"] = new_properties
-        for index, parameter in enumerate(tool["required"]):
+        for index, parameter in enumerate(tool["parameters"]["required"]):
             if parameter in trans_dict[tool["name"]].keys():
-                tool["required"][index] = trans_dict[tool["name"]][parameter]
+                tool["parameters"]["required"][index] = trans_dict[tool["name"]][parameter]
     return config, match_dict, trans_dict
 
 
@@ -232,7 +232,7 @@ def param_heavy_transform(config: list, function: str, input: dict):
                 re_param = required_param.copy()
                 re_param["description"] = re_param["description"].replace("\"yes\"", f"\"{used}\"")
                 tool["parameters"]["properties"][param_name] = re_param
-                tool["required"].append(param_name)
+                tool["parameters"]["required"].append(param_name)
             # 参数意义交换shift
             else:
                 param_list = []
@@ -264,8 +264,8 @@ def param_heavy_transform(config: list, function: str, input: dict):
                     new_properties[name] = param_value
                     index += 1
                 tool["parameters"]["properties"] = new_properties
-                for index, re_param in enumerate(tool["required"]):
-                    tool["required"][index] = match_dict[tool["name"]][re_param]
-                for index, re_param in enumerate(tool["required"]):
-                    tool["required"][index] = trans_dict[tool["name"]][re_param]
+                for index, re_param in enumerate(tool["parameters"]["required"]):
+                    tool["parameters"]["required"][index] = match_dict[tool["name"]][re_param]
+                for index, re_param in enumerate(tool["parameters"]["required"]):
+                    tool["parameters"]["required"][index] = trans_dict[tool["name"]][re_param]
     return config, match_dict, trans_dict

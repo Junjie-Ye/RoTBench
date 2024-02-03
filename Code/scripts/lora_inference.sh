@@ -1,7 +1,7 @@
 export CUDA_VISIBLE_DEVICES=0
 export PYTHONPATH=./
 
-python RoTBench/Code/Inference/inference_pipeline.py \
+python Code/Inference/inference_new/inference_pipeline.py \
     --backbone_model toolllama \
     --model_path \
     --lora \
