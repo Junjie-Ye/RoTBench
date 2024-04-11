@@ -161,3 +161,4 @@ cython_debug/
 # Code
 RoTLLaMA.png
 Inference_ori
+*.zip

@@ -65,7 +65,7 @@ def get_raven_resultcall(data, version):
         end_idx = result_call.find(end_str)
         result_call = result_call[start_idx: end_idx]
     if version == 2:
-        result_call = data["result"][6:d["result"].find("\nThought:") - 1]
+        result_call = data["result"][6:data["result"].find("\nThought:") - 1]
         if result_call.find(";") != -1:
             result_call = result_call[:result_call.find(";")]
         if result_call.count("(") == 1:
