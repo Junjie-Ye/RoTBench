@@ -22,6 +22,6 @@ SPARQLWrapper==2.0.0
 termcolor==2.4.0
 torch==1.13.1
 tqdm==4.64.1
-transformers==4.38.0.dev0
+transformers==4.28.1
 wolframalpha==5.0.0
 zmail==0.2.8
