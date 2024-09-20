@@ -1,6 +1,6 @@
-# RoTBench
+# [EMNLP 2024] RoTBench
 
-## RoTBench: A Multi-Level Benchmark for Evaluating the Robustness of Large Language Models in Tool Learning
+## [EMNLP 2024] RoTBench: A Multi-Level Benchmark for Evaluating the Robustness of Large Language Models in Tool Learning
 
 > Data for paper [RoTBench: A Multi-Level Benchmark for Evaluating the Robustness of Large Language Models in Tool Learning](https://arxiv.org/abs/2401.08326)
 
@@ -26,6 +26,7 @@ In light of these findings, we propose RoTTuning, a strategy that enriches the d
 
 ## What's New
 
+- **[2024.09.20]** The paper has been accepted by EMNLP 2024 Main conference.
 - **[2024.02.03]** The code is released. The instruction for evaluation is on its way.
 - **[2024.01.17]** The data is released.
 - **[2024.01.16]** Paper available on [Arxiv](https://arxiv.org/abs/2401.08326).
