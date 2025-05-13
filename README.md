@@ -61,7 +61,7 @@ In light of the experimental findings, it is evident that enhancing the robustne
 If you find this project useful in your research, please cite:
 
 ```
-@article{DBLP:journals/corr/abs-2401-08326,
+@inproceedings{DBLP:conf/emnlp/YeWGHLLFZG024,
   author       = {Junjie Ye and
                   Yilong Wu and
                   Songyang Gao and
@@ -72,17 +72,20 @@ If you find this project useful in your research, please cite:
                   Qi Zhang and
                   Tao Gui and
                   Xuanjing Huang},
+  editor       = {Yaser Al{-}Onaizan and
+                  Mohit Bansal and
+                  Yun{-}Nung Chen},
   title        = {RoTBench: {A} Multi-Level Benchmark for Evaluating the Robustness
                   of Large Language Models in Tool Learning},
-  journal      = {CoRR},
-  volume       = {abs/2401.08326},
+  booktitle    = {Proceedings of the 2024 Conference on Empirical Methods in Natural
+                  Language Processing, {EMNLP} 2024, Miami, FL, USA, November 12-16,
+                  2024},
+  pages        = {313--333},
+  publisher    = {Association for Computational Linguistics},
   year         = {2024},
-  url          = {https://doi.org/10.48550/arXiv.2401.08326},
-  doi          = {10.48550/ARXIV.2401.08326},
-  eprinttype    = {arXiv},
-  eprint       = {2401.08326},
-  timestamp    = {Thu, 01 Feb 2024 15:35:36 +0100},
-  biburl       = {https://dblp.org/rec/journals/corr/abs-2401-08326.bib},
+  url          = {https://aclanthology.org/2024.emnlp-main.19},
+  timestamp    = {Thu, 14 Nov 2024 17:20:54 +0100},
+  biburl       = {https://dblp.org/rec/conf/emnlp/YeWGHLLFZG024.bib},
   bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 ```
